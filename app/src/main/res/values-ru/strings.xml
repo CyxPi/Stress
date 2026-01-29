@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Стресс</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Главная</string>
+    <string name="nav_history">История</string>
+    <string name="nav_back">Назад</string>
+    <string name="nav_add_entry">Добавить запись</string>
+    <string name="nav_load_sample">Загрузить тестовые данные</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Монитор стресса</string>
+    <string name="dashboard_today_stress">Уровень стресса сегодня</string>
+    <string name="dashboard_get_relaxation">Советы по расслаблению</string>
+    <string name="dashboard_no_entry">Записей пока нет</string>
+    <string name="dashboard_add_first">Добавьте первую запись</string>
+    <string name="dashboard_trend_summary">Сводка по трендам</string>
+    <string name="dashboard_average">Среднее</string>
+    <string name="dashboard_trend">Тренд</string>
+    <string name="dashboard_improving">Улучшение</string>
+    <string name="dashboard_worsening">Ухудшение</string>
+    <string name="dashboard_stable">Стабильно</string>
+    <string name="dashboard_need_data">Нужно больше данных</string>
+    <string name="dashboard_high_stress_days">Дней с высоким стрессом</string>
+
+    <!-- Add Entry -->
+    <string name="add_entry_title">Запись о стрессе</string>
+    <string name="add_stress_level">Уровень стресса (1–10)</string>
+    <string name="add_sleep_hours">Сон (часы)</string>
+    <string name="add_sleep_format">%1$.1f ч</string>
+    <string name="add_mood">Настроение (1–5)</string>
+    <string name="add_physical_activity">Физ. активность (мин)</string>
+    <string name="add_minutes_format">%1$d мин</string>
+    <string name="add_notes">Заметки (необязательно)</string>
+    <string name="add_cancel">Отмена</string>
+    <string name="add_save">Сохранить</string>
+
+    <!-- History -->
+    <string name="history_title">История стресса</string>
+    <string name="history_subtitle">Ваш уровень стресса за период</string>
+    <string name="history_empty">Данных пока нет. Добавьте записи, чтобы увидеть историю.</string>
+
+    <!-- Relaxation -->
+    <string name="relaxation_title">Расслабление</string>
+    <string name="relaxation_recommendations_for">Рекомендации при уровне стресса %1$d</string>
+    <string name="relaxation_mindfulness_tips">Советы по осознанности</string>
+    <string name="relaxation_exercises">Рекомендуемые упражнения</string>
+    <string name="relaxation_tap_to_start">Нажмите, чтобы начать →</string>
+
+    <!-- Breathing Exercise -->
+    <string name="breathing_seconds">секунд</string>
+    <string name="breathing_done">Готово</string>
+    <string name="breathing_phase_inhale">Вдох</string>
+    <string name="breathing_phase_hold">Задержка</string>
+    <string name="breathing_phase_exhale">Выдох</string>
+
+    <!-- Recommendations -->
+    <string name="rec_4_7_8_title">Дыхание 4-7-8</string>
+    <string name="rec_4_7_8_desc">Вдох 4 сек, задержка 7 сек, выдох 8 сек. Повторить 4 раза. Успокаивает нервную систему.</string>
+    <string name="rec_grounding_title">Упражнение заземления</string>
+    <string name="rec_grounding_desc">Назовите 5 вещей, которые видите, 4 — слышите, 3 — трогаете, 2 — чувствуете запах, 1 — вкус.</string>
+    <string name="rec_pmr_title">Прогрессивная мышечная релаксация</string>
+    <string name="rec_pmr_desc">Напрягайте и расслабляйте группы мышц от пальцев ног до головы. Напряжение 5 сек, расслабление 30 сек.</string>
+    <string name="rec_break_title">Сделайте перерыв</string>
+    <string name="rec_break_desc">Отойдите на 5 минут. Пройдитесь, потянитесь или просто подышите. Вы заслужили паузу.</string>
+    <string name="rec_box_title">Квадратное дыхание</string>
+    <string name="rec_box_desc">Вдох 4 сек, задержка 4 сек, выдох 4 сек, задержка 4 сек. Повторить 5 раз.</string>
+    <string name="rec_mindful_title">Осознанный момент</string>
+    <string name="rec_mindful_desc">Остановитесь и наблюдайте за дыханием. Замечайте мысли без оценки. Возвращайтесь к дыханию.</string>
+    <string name="rec_stretch_title">Лёгкая растяжка</string>
+    <string name="rec_stretch_desc">Покрутите плечами, потяните шею, поднимите руки. Снимите физическое напряжение.</string>
+    <string name="rec_deep_title">Глубокое дыхание</string>
+    <string name="rec_deep_desc">Медленные глубокие вдохи. Вдох через нос, выдох через рот. 5–10 вдохов.</string>
+    <string name="rec_gratitude_title">Пауза благодарности</string>
+    <string name="rec_gratitude_desc">Подумайте о 3 вещах, за которые благодарны прямо сейчас. Прочувствуйте это.</string>
+
+    <!-- Mindfulness tips -->
+    <string name="tip_1">Ваше дыхание всегда с вами — используйте его как якорь.</string>
+    <string name="tip_2">Нормально чувствовать себя не в порядке. Признайте свои чувства.</string>
+    <string name="tip_3">Небольшие паузы складываются в большее спокойствие.</string>
+    <string name="tip_4">Прогресс не линейный. Будьте к себе добрее.</string>
+    <string name="tip_5">Из пустой чашки не нальёшь. Отдых — это продуктивно.</string>
+    <string name="tip_6">Замечайте настоящий момент без оценки.</string>
+    <string name="tip_7">Один глубокий вдох может изменить ваше состояние.</string>
+
+    <!-- Errors -->
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_save_failed">Не удалось сохранить</string>
+    <string name="error_load_sample_failed">Не удалось загрузить тестовые данные</string>
+    <string name="error_delete_failed">Не удалось удалить</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stress</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_add_entry">Add entry</string>
+    <string name="nav_load_sample">Load sample data</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Stress Monitor</string>
+    <string name="dashboard_today_stress">Today\'s Stress Level</string>
+    <string name="dashboard_get_relaxation">Get relaxation tips</string>
+    <string name="dashboard_no_entry">No entry yet</string>
+    <string name="dashboard_add_first">Add your first entry</string>
+    <string name="dashboard_trend_summary">Trend Summary</string>
+    <string name="dashboard_average">Average</string>
+    <string name="dashboard_trend">Trend</string>
+    <string name="dashboard_improving">Improving</string>
+    <string name="dashboard_worsening">Worsening</string>
+    <string name="dashboard_stable">Stable</string>
+    <string name="dashboard_need_data">Need more data</string>
+    <string name="dashboard_high_stress_days">High stress days</string>
+
+    <!-- Add Entry -->
+    <string name="add_entry_title">Log Stress Entry</string>
+    <string name="add_stress_level">Stress Level (1-10)</string>
+    <string name="add_sleep_hours">Sleep (hours)</string>
+    <string name="add_sleep_format">%1$.1f hours</string>
+    <string name="add_mood">Mood (1-5)</string>
+    <string name="add_physical_activity">Physical Activity (min)</string>
+    <string name="add_minutes_format">%1$d minutes</string>
+    <string name="add_notes">Notes (optional)</string>
+    <string name="add_cancel">Cancel</string>
+    <string name="add_save">Save</string>
+
+    <!-- History -->
+    <string name="history_title">Stress History</string>
+    <string name="history_subtitle">Your stress levels over time</string>
+    <string name="history_empty">No data yet. Add entries to see your stress history.</string>
+
+    <!-- Relaxation -->
+    <string name="relaxation_title">Relaxation</string>
+    <string name="relaxation_recommendations_for">Recommendations for stress level %1$d</string>
+    <string name="relaxation_mindfulness_tips">Mindfulness Tips</string>
+    <string name="relaxation_exercises">Recommended Exercises</string>
+    <string name="relaxation_tap_to_start">Tap to start →</string>
+
+    <!-- Breathing Exercise -->
+    <string name="breathing_seconds">seconds</string>
+    <string name="breathing_done">Done</string>
+    <string name="breathing_phase_inhale">Inhale</string>
+    <string name="breathing_phase_hold">Hold</string>
+    <string name="breathing_phase_exhale">Exhale</string>
+
+    <!-- Recommendations -->
+    <string name="rec_4_7_8_title">4-7-8 Breathing</string>
+    <string name="rec_4_7_8_desc">Inhale 4 sec, hold 7 sec, exhale 8 sec. Repeat 4 times. Calms the nervous system.</string>
+    <string name="rec_grounding_title">Grounding Exercise</string>
+    <string name="rec_grounding_desc">Name 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste.</string>
+    <string name="rec_pmr_title">Progressive Muscle Relaxation</string>
+    <string name="rec_pmr_desc">Tense and release each muscle group from toes to head. Hold tension 5 sec, release 30 sec.</string>
+    <string name="rec_break_title">Take a Break</string>
+    <string name="rec_break_desc">Step away for 5 minutes. Walk, stretch, or simply breathe. You deserve a pause.</string>
+    <string name="rec_box_title">Box Breathing</string>
+    <string name="rec_box_desc">4 sec inhale, 4 sec hold, 4 sec exhale, 4 sec hold. Repeat 5 times.</string>
+    <string name="rec_mindful_title">Mindful Moment</string>
+    <string name="rec_mindful_desc">Pause and observe your breath. Notice thoughts without judgment. Return to breath.</string>
+    <string name="rec_stretch_title">Gentle Stretch</string>
+    <string name="rec_stretch_desc">Roll shoulders, stretch neck, reach arms up. Release physical tension.</string>
+    <string name="rec_deep_title">Deep Breathing</string>
+    <string name="rec_deep_desc">Slow, deep breaths. Inhale through nose, exhale through mouth. 5-10 breaths.</string>
+    <string name="rec_gratitude_title">Gratitude Pause</string>
+    <string name="rec_gratitude_desc">Think of 3 things you\'re grateful for right now. Savor the feeling.</string>
+
+    <!-- Mindfulness tips -->
+    <string name="tip_1">Your breath is always with you—use it as an anchor.</string>
+    <string name="tip_2">It\'s okay to not be okay. Acknowledge your feelings.</string>
+    <string name="tip_3">Small moments of pause add up to greater calm.</string>
+    <string name="tip_4">Progress isn\'t linear. Be gentle with yourself.</string>
+    <string name="tip_5">You can\'t pour from an empty cup. Rest is productive.</string>
+    <string name="tip_6">Notice the present moment without judgment.</string>
+    <string name="tip_7">One deep breath can shift your state.</string>
+
+    <!-- Errors -->
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_save_failed">Failed to save</string>
+    <string name="error_load_sample_failed">Failed to load sample data</string>
+    <string name="error_delete_failed">Failed to delete</string>
+</resources>
